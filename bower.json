@@ -1,7 +1,7 @@
 {
   "name": "norm-javascript-client",
   "description": "Client library of norm",
-  "main": "dist/norm.js",
+  "main": "/dist/norm.js",
   "authors": [
     "unsalted <nick@unsalted.nu>"
   ],
