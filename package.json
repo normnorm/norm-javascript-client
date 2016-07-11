@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Client library of norm",
   "license": "Apache-2.0",
-  "main": "src/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --recursive"
   },
