@@ -1,5 +1,5 @@
 {
-  "name": "norm-javascript-client",
+  "name": "norm",
   "description": "Client library of norm",
   "main": "./dist/norm.js",
   "authors": [
