@@ -19,8 +19,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "superagent": "1.7.1"
-  }
+  ]
 }
